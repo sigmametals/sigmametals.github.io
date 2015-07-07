@@ -9672,6 +9672,11 @@ th.hide-for-touch {
 }
 
 /* line 203, ../bower_components/foundation/scss/_customized.scss */
+.blue-border {
+  border-color: #13437e !important;
+}
+
+/* line 207, ../bower_components/foundation/scss/_customized.scss */
 #sigma {
   background: url("../assets/manual.jpg");
   background-position: bottom center;
@@ -9679,7 +9684,7 @@ th.hide-for-touch {
   background-size: 1000px;
 }
 
-/* line 209, ../bower_components/foundation/scss/_customized.scss */
+/* line 213, ../bower_components/foundation/scss/_customized.scss */
 #map {
   background: url("../assets/map.jpg");
   background-position: center;
@@ -9687,18 +9692,18 @@ th.hide-for-touch {
   background-size: 1350px;
 }
 
-/* line 217, ../bower_components/foundation/scss/_customized.scss */
+/* line 221, ../bower_components/foundation/scss/_customized.scss */
 .item {
   background: url("../assets/item.jpg") center center no-repeat;
   width: 100%;
 }
-/* line 221, ../bower_components/foundation/scss/_customized.scss */
+/* line 225, ../bower_components/foundation/scss/_customized.scss */
 .item .column, .item .columns {
   padding-left: 0rem !important;
   padding-right: 0rem !important;
 }
 
-/* line 226, ../bower_components/foundation/scss/_customized.scss */
+/* line 230, ../bower_components/foundation/scss/_customized.scss */
 .materials {
   background: url("../assets/materials.jpg") center center no-repeat;
   width: 100%;
@@ -9706,13 +9711,13 @@ th.hide-for-touch {
   -moz-transition: fadein .25s ease-in-out;
   -webkit-transition: fadein .25s ease-in-out;
 }
-/* line 233, ../bower_components/foundation/scss/_customized.scss */
+/* line 237, ../bower_components/foundation/scss/_customized.scss */
 .materials .column, .materials .columns {
   padding-left: 0rem !important;
   padding-right: 0rem !important;
 }
 
-/* line 239, ../bower_components/foundation/scss/_customized.scss */
+/* line 243, ../bower_components/foundation/scss/_customized.scss */
 .machinery {
   background: url("../assets/amada2.jpg") top center no-repeat;
   background-size: 1000px;
@@ -9722,13 +9727,13 @@ th.hide-for-touch {
   -moz-transition: fadein .25s ease-in-out;
   -webkit-transition: fadein .25s ease-in-out;
 }
-/* line 248, ../bower_components/foundation/scss/_customized.scss */
+/* line 252, ../bower_components/foundation/scss/_customized.scss */
 .machinery .column, .machinery .columns {
   padding-left: 0rem !important;
   padding-right: 0rem !important;
 }
 
-/* line 253, ../bower_components/foundation/scss/_customized.scss */
+/* line 257, ../bower_components/foundation/scss/_customized.scss */
 .industry {
   background: url("../assets/industries.jpg") center left no-repeat;
   background-size: 1000px;
@@ -9738,110 +9743,110 @@ th.hide-for-touch {
   -moz-transition: fadein .25s ease-in-out;
   -webkit-transition: fadein .25s ease-in-out;
 }
-/* line 263, ../bower_components/foundation/scss/_customized.scss */
+/* line 267, ../bower_components/foundation/scss/_customized.scss */
 .industry .column, .industry .columns {
   padding-left: 0rem !important;
   padding-right: 0rem !important;
 }
 
 @media only screen and (min-width: 90.063em) {
-  /* line 271, ../bower_components/foundation/scss/_customized.scss */
+  /* line 275, ../bower_components/foundation/scss/_customized.scss */
   .xlarge-bg {
     background-size: 1350px;
   }
 
-  /* line 275, ../bower_components/foundation/scss/_customized.scss */
+  /* line 279, ../bower_components/foundation/scss/_customized.scss */
   #sigma {
     background-size: 1350px;
   }
 }
-/* line 279, ../bower_components/foundation/scss/_customized.scss */
+/* line 283, ../bower_components/foundation/scss/_customized.scss */
 .illusion {
   background: url("../assets/illusion2.png");
 }
 
-/* line 283, ../bower_components/foundation/scss/_customized.scss */
+/* line 287, ../bower_components/foundation/scss/_customized.scss */
 .quote {
   background: url("../assets/quote.jpg") center left no-repeat;
   width: 100%;
 }
-/* line 287, ../bower_components/foundation/scss/_customized.scss */
+/* line 291, ../bower_components/foundation/scss/_customized.scss */
 .quote:hover {
   opacity: 1;
   transition: fadein .25s ease-in-out;
   -moz-transition: fadein .25s ease-in-out;
   -webkit-transition: fadein .25s ease-in-out;
 }
-/* line 293, ../bower_components/foundation/scss/_customized.scss */
+/* line 297, ../bower_components/foundation/scss/_customized.scss */
 .quote .column, .quote .columns {
   padding-left: 0rem !important;
   padding-right: 0rem !important;
 }
 
-/* line 299, ../bower_components/foundation/scss/_customized.scss */
+/* line 303, ../bower_components/foundation/scss/_customized.scss */
 .no-padding {
   padding: 0px;
 }
 
-/* line 303, ../bower_components/foundation/scss/_customized.scss */
+/* line 307, ../bower_components/foundation/scss/_customized.scss */
 .item-pic {
   background: url("../assets/item.jpg") center center no-repeat;
   background-attachment: fixed;
 }
 
-/* line 307, ../bower_components/foundation/scss/_customized.scss */
+/* line 311, ../bower_components/foundation/scss/_customized.scss */
 .capabilities {
   font-size: 1.27rem;
 }
 
-/* line 311, ../bower_components/foundation/scss/_customized.scss */
+/* line 315, ../bower_components/foundation/scss/_customized.scss */
 .button-margin {
   margin-top: 15px;
   margin-bottom: 15px;
 }
 
-/* line 316, ../bower_components/foundation/scss/_customized.scss */
+/* line 320, ../bower_components/foundation/scss/_customized.scss */
 .remove-margin-top {
   margin-top: -0.2rem;
 }
 
-/* line 320, ../bower_components/foundation/scss/_customized.scss */
+/* line 324, ../bower_components/foundation/scss/_customized.scss */
 .pad-top {
   padding-top: 75px;
 }
 
-/* line 324, ../bower_components/foundation/scss/_customized.scss */
+/* line 328, ../bower_components/foundation/scss/_customized.scss */
 .tabs dd > a, .tabs .tab-title > a {
   padding: 0.5rem 1rem;
 }
 
-/* line 328, ../bower_components/foundation/scss/_customized.scss */
+/* line 332, ../bower_components/foundation/scss/_customized.scss */
 .margin-right {
   margin-right: 10px;
 }
 
-/* line 332, ../bower_components/foundation/scss/_customized.scss */
+/* line 336, ../bower_components/foundation/scss/_customized.scss */
 .padding-left {
   padding-left: 20px;
 }
 
-/* line 335, ../bower_components/foundation/scss/_customized.scss */
+/* line 339, ../bower_components/foundation/scss/_customized.scss */
 .margin-left {
   margin-right: 10px;
 }
 
-/* line 339, ../bower_components/foundation/scss/_customized.scss */
+/* line 343, ../bower_components/foundation/scss/_customized.scss */
 h1.heading-colour a {
   color: #13437e;
 }
 
 /* Footer Styles */
-/* line 345, ../bower_components/foundation/scss/_customized.scss */
+/* line 349, ../bower_components/foundation/scss/_customized.scss */
 .full-width {
   max-width: 1400px;
 }
 
-/* line 351, ../bower_components/foundation/scss/_customized.scss */
+/* line 355, ../bower_components/foundation/scss/_customized.scss */
 .footer {
   background-color: #1f1f1f;
   padding: 2rem 4rem;
@@ -9849,19 +9854,19 @@ h1.heading-colour a {
   color: #fff;
 }
 
-/* line 358, ../bower_components/foundation/scss/_customized.scss */
+/* line 362, ../bower_components/foundation/scss/_customized.scss */
 .sub-footer {
   background-color: #242424;
   padding: 25px 0px;
   text-align: center;
   color: #fff;
 }
-/* line 363, ../bower_components/foundation/scss/_customized.scss */
+/* line 367, ../bower_components/foundation/scss/_customized.scss */
 .sub-footer i {
   font-size: 100px;
 }
 
-/* line 369, ../bower_components/foundation/scss/_customized.scss */
+/* line 373, ../bower_components/foundation/scss/_customized.scss */
 .footer h4 {
   color: #fff;
   font-size: 1rem;
@@ -9870,34 +9875,34 @@ h1.heading-colour a {
   margin-top: 2.5rem;
   margin-bottom: 10px;
 }
-/* line 377, ../bower_components/foundation/scss/_customized.scss */
+/* line 381, ../bower_components/foundation/scss/_customized.scss */
 .footer p {
   font-weight: 300;
   font-size: .8rem;
 }
 
 @media only screen and (min-width: 40.063em) {
-  /* line 385, ../bower_components/foundation/scss/_customized.scss */
+  /* line 389, ../bower_components/foundation/scss/_customized.scss */
   .footer .columns:nth-child(n+2) {
     min-height: 280px;
   }
 }
-/* line 391, ../bower_components/foundation/scss/_customized.scss */
+/* line 395, ../bower_components/foundation/scss/_customized.scss */
 .footer-links {
   list-style-type: none;
 }
-/* line 393, ../bower_components/foundation/scss/_customized.scss */
+/* line 397, ../bower_components/foundation/scss/_customized.scss */
 .footer-links a {
   color: #fff;
   font-weight: 300;
   font-size: .8rem;
 }
-/* line 398, ../bower_components/foundation/scss/_customized.scss */
+/* line 402, ../bower_components/foundation/scss/_customized.scss */
 .footer-links li {
   margin-top: .5rem;
 }
 
-/* line 403, ../bower_components/foundation/scss/_customized.scss */
+/* line 407, ../bower_components/foundation/scss/_customized.scss */
 #ANX {
   color: white;
   font-family: roboto condensed, roboto, sans-serif;
@@ -9907,7 +9912,7 @@ h1.heading-colour a {
   margin-top: 35px;
 }
 
-/* line 411, ../bower_components/foundation/scss/_customized.scss */
+/* line 415, ../bower_components/foundation/scss/_customized.scss */
 #GROUP {
   color: white;
   font-family: roboto condensed, roboto, sans-serif;
@@ -9920,7 +9925,7 @@ h1.heading-colour a {
 
 /* Mobile Styles */
 @media only screen and (max-width: 40em) {
-  /* line 425, ../bower_components/foundation/scss/_customized.scss */
+  /* line 429, ../bower_components/foundation/scss/_customized.scss */
   #map {
     background: url("../assets/map.jpg");
     background-position: center;
@@ -9928,91 +9933,91 @@ h1.heading-colour a {
   }
 }
 /* Labels */
-/* line 434, ../bower_components/foundation/scss/_customized.scss */
+/* line 438, ../bower_components/foundation/scss/_customized.scss */
 .padded {
   margin: 2px;
 }
 
 /* Address */
-/* line 440, ../bower_components/foundation/scss/_customized.scss */
+/* line 444, ../bower_components/foundation/scss/_customized.scss */
 address {
   font-size: 0.8rem;
 }
 
 /* Fade in Classes */
-/* line 446, ../bower_components/foundation/scss/_customized.scss */
+/* line 450, ../bower_components/foundation/scss/_customized.scss */
 .logoFadeIn, .navFadeIn, .headingFadeIn, .arrowFadeIn {
   display: none;
 }
 
 @media only screen and (max-width: 40em) {
-  /* line 450, ../bower_components/foundation/scss/_customized.scss */
+  /* line 454, ../bower_components/foundation/scss/_customized.scss */
   #site-title .titling {
     font-size: 2rem;
     text-align: center;
   }
-  /* line 454, ../bower_components/foundation/scss/_customized.scss */
+  /* line 458, ../bower_components/foundation/scss/_customized.scss */
   #site-title .sub-titling {
     font-size: 1.4rem;
     text-align: center;
   }
-  /* line 458, ../bower_components/foundation/scss/_customized.scss */
+  /* line 462, ../bower_components/foundation/scss/_customized.scss */
   #site-title .capabilities {
     font-size: 0.6rem;
     text-align: center;
   }
 
-  /* line 463, ../bower_components/foundation/scss/_customized.scss */
+  /* line 467, ../bower_components/foundation/scss/_customized.scss */
   .screen-size-height {
     height: 736px;
   }
 
-  /* line 466, ../bower_components/foundation/scss/_customized.scss */
+  /* line 470, ../bower_components/foundation/scss/_customized.scss */
   .vertical-centered {
     margin-top: 200px;
   }
 
-  /* line 469, ../bower_components/foundation/scss/_customized.scss */
+  /* line 473, ../bower_components/foundation/scss/_customized.scss */
   .tabs dd > a, .tabs .tab-title > a {
     font-size: 0.7rem;
   }
 
-  /* line 473, ../bower_components/foundation/scss/_customized.scss */
+  /* line 477, ../bower_components/foundation/scss/_customized.scss */
   .small-materials {
     background: url("../assets/materials.jpg") center center no-repeat;
     width: 100%;
     background-color: rgba(255, 255, 255, 0.75);
   }
 
-  /* line 480, ../bower_components/foundation/scss/_customized.scss */
+  /* line 484, ../bower_components/foundation/scss/_customized.scss */
   .small-machinery {
     background: url("../assets/machinery.jpg") center left no-repeat;
     width: 100%;
   }
 
-  /* line 485, ../bower_components/foundation/scss/_customized.scss */
+  /* line 489, ../bower_components/foundation/scss/_customized.scss */
   .small-industry {
     background: url("../assets/industries.jpg") center left no-repeat;
     width: 100%;
   }
 
-  /* line 491, ../bower_components/foundation/scss/_customized.scss */
+  /* line 495, ../bower_components/foundation/scss/_customized.scss */
   .small-bg {
     background: url("../assets/amada1.jpg") center left no-repeat;
     width: 100%;
   }
 
-  /* line 497, ../bower_components/foundation/scss/_customized.scss */
+  /* line 501, ../bower_components/foundation/scss/_customized.scss */
   .small-illusion {
     background: url("../assets/illusion2.png");
   }
 
-  /* line 501, ../bower_components/foundation/scss/_customized.scss */
+  /* line 505, ../bower_components/foundation/scss/_customized.scss */
   .small-white {
     color: white;
   }
 
-  /* line 505, ../bower_components/foundation/scss/_customized.scss */
+  /* line 509, ../bower_components/foundation/scss/_customized.scss */
   .footer {
     background-color: #13437e;
     padding: 2rem 4rem;
@@ -10020,112 +10025,112 @@ address {
     color: #fff;
   }
 
-  /* line 512, ../bower_components/foundation/scss/_customized.scss */
+  /* line 516, ../bower_components/foundation/scss/_customized.scss */
   .sub-footer {
     background-color: #164D90;
     padding: 25px 0px;
     text-align: center;
     color: #fff;
   }
-  /* line 517, ../bower_components/foundation/scss/_customized.scss */
+  /* line 521, ../bower_components/foundation/scss/_customized.scss */
   .sub-footer i {
     font-size: 100px;
   }
 
-  /* line 522, ../bower_components/foundation/scss/_customized.scss */
+  /* line 526, ../bower_components/foundation/scss/_customized.scss */
   .bg-white {
     background-color: rgba(255, 255, 255, 0.5);
   }
 
-  /* line 526, ../bower_components/foundation/scss/_customized.scss */
+  /* line 530, ../bower_components/foundation/scss/_customized.scss */
   .remove-sides {
     padding: 0px;
   }
 
-  /* line 529, ../bower_components/foundation/scss/_customized.scss */
+  /* line 533, ../bower_components/foundation/scss/_customized.scss */
   .no-margin-top {
     margin-top: 0px;
   }
 
-  /* line 533, ../bower_components/foundation/scss/_customized.scss */
+  /* line 537, ../bower_components/foundation/scss/_customized.scss */
   h1 {
     margin-top: 0px;
   }
 
-  /* line 536, ../bower_components/foundation/scss/_customized.scss */
+  /* line 540, ../bower_components/foundation/scss/_customized.scss */
   .full-width {
     width: 100%;
     height: 100%;
   }
 
-  /* line 540, ../bower_components/foundation/scss/_customized.scss */
+  /* line 544, ../bower_components/foundation/scss/_customized.scss */
   .footer-links {
     list-style-type: none;
     margin-left: 0rem;
   }
-  /* line 542, ../bower_components/foundation/scss/_customized.scss */
+  /* line 546, ../bower_components/foundation/scss/_customized.scss */
   .footer-links a {
     color: #fff;
     font-weight: 300;
     font-size: .8rem;
   }
-  /* line 548, ../bower_components/foundation/scss/_customized.scss */
+  /* line 552, ../bower_components/foundation/scss/_customized.scss */
   .footer-links li {
     margin-top: .5rem;
   }
 
-  /* line 552, ../bower_components/foundation/scss/_customized.scss */
+  /* line 556, ../bower_components/foundation/scss/_customized.scss */
   .down-arrow {
     margin-top: 250px;
   }
 
-  /* line 556, ../bower_components/foundation/scss/_customized.scss */
+  /* line 560, ../bower_components/foundation/scss/_customized.scss */
   .up-arrow-bottom {
     margin-top: 100px;
   }
 
-  /* line 560, ../bower_components/foundation/scss/_customized.scss */
+  /* line 564, ../bower_components/foundation/scss/_customized.scss */
   .down-arrow-main {
     margin-top: 100px;
   }
 
-  /* line 564, ../bower_components/foundation/scss/_customized.scss */
+  /* line 568, ../bower_components/foundation/scss/_customized.scss */
   .down-arrow-about {
     margin-top: 50px;
   }
 
-  /* line 567, ../bower_components/foundation/scss/_customized.scss */
+  /* line 571, ../bower_components/foundation/scss/_customized.scss */
   .capabilities-margin-top {
     margin-top: 150px;
   }
 
-  /* line 570, ../bower_components/foundation/scss/_customized.scss */
+  /* line 574, ../bower_components/foundation/scss/_customized.scss */
   .margin-top-50 {
     margin-top: 50px !important;
   }
 
-  /* line 573, ../bower_components/foundation/scss/_customized.scss */
+  /* line 577, ../bower_components/foundation/scss/_customized.scss */
   .squeeze-top-more {
     margin-top: -50px !important;
   }
 
-  /* line 576, ../bower_components/foundation/scss/_customized.scss */
+  /* line 580, ../bower_components/foundation/scss/_customized.scss */
   .mobile-v-centered {
     padding-top: 125px !important;
   }
 
-  /* line 579, ../bower_components/foundation/scss/_customized.scss */
+  /* line 583, ../bower_components/foundation/scss/_customized.scss */
   .vertical-centered {
     margin: 0px;
     padding-top: 125px;
   }
 
-  /* line 583, ../bower_components/foundation/scss/_customized.scss */
+  /* line 587, ../bower_components/foundation/scss/_customized.scss */
   .small-screen-size-height {
     height: 850px;
   }
 }
-/* line 588, ../bower_components/foundation/scss/_customized.scss */
+/* line 592, ../bower_components/foundation/scss/_customized.scss */
 .pad-wee-bit {
   padding-top: 20px;
   padding-bottom: 20px;
