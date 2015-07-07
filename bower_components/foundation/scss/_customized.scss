@@ -388,6 +388,24 @@ h1.heading-colour a {
   }
 }
 
+#ANX {
+	color: white;
+  font-family: roboto condensed, roboto, sans-serif;
+  font-weight: 800;
+	font-size: 4rem;
+	line-height: 0.75;
+	margin-top: 35px;
+}
+#GROUP {
+	color: white;
+	font-family: roboto condensed, roboto, sans-serif;
+	letter-spacing: 0.9rem;
+	font-weight: 100;
+	font-size: 1.2rem;
+	line-height: 0.75;
+	margin-left: 13px;
+}
+
 
 /* Mobile Styles */
 
@@ -523,6 +541,10 @@ address {
 		margin-top: 250px;
 	}
 
+	.up-arrow-bottom {
+		margin-top: 100px;
+	}
+
 	.down-arrow-main {
 		margin-top: 100px;
 	}
@@ -547,7 +569,7 @@ address {
 		padding-top: 125px;
 	}
 	.small-screen-size-height {
-		height:1080px;
+		height:850px;
 	}
 }
 
