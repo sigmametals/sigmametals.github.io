@@ -210,6 +210,7 @@
 	background: url('../assets/map.jpg');
 	background-position: center;
 	height: 600px;
+	background-size: 1350px;
 }
 
 //Background Images
@@ -262,6 +263,17 @@
    .column, .columns {
 		padding-left: 0rem !important;
 		padding-right: 0rem !important;
+	}
+}
+
+// X-Large Screens
+@media only screen and (min-width: 90.063em) {
+	.xlarge-bg {
+		background-size: 1350px;
+	}
+
+	#sigma {
+		background-size: 1350px;
 	}
 }
 .illusion {
